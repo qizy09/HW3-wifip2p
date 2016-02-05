@@ -16,3 +16,4 @@ This is a backup repository for a previous Android homework project of the cours
 # License
 
     Copyright 2016.
+    For any questions, feel free to let me know.
