@@ -1,6 +1,6 @@
 # Send me your photo by shaking
 This is a backup repository for a previous Android homework project of the course ECE 150/251 (UCSB 2016 Winter).
-
+-------------------------
 # Specification
 
 ```
